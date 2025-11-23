@@ -16,7 +16,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 /**
- * Class that handeles the data retrival
+ * Class that handles the data retrieval
  */
 public class ScraperController {
     private ArrayList<Swimmer> swimmersScraped = new ArrayList<>();

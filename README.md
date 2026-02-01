@@ -1,5 +1,9 @@
 # WorldAquaticsSwimmingChampionships25m2024V2
-A Java-based tool that retrieves swimmer data and automatically generates the entry list for the World Aquatics Swimming Championships (25m) 2024.
+
+A Java-based tool designed to retrieve swimmer data and automatically generate the entry list for the World Aquatics Swimming Championships (25m) 2024.
+
+This project was developed due to the lack of comprehensive and accessible entry lists online, which are essential for obtaining a clear and detailed overview of the competition. Such lists are particularly valuable for individuals interested in creating well-informed fantasy teams, thereby enhancing the overall experience for both enthusiasts and participants.
+
 
 ---
 
